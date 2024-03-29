@@ -1,8 +1,5 @@
-import wait from '@/lib/wait'
-import React from 'react'
+export default function AssignmentsPage() {
 
-export default async function AssignmentsPage() {
-    await wait(3000)
     return (
 
         <div
